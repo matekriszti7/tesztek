@@ -5,3 +5,16 @@ h1{
     color: aqua;
     font-size: 22pt;
 }
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: bisque;
+}
+.forma{
+    text-align: justify;
+    font-size: 13pt;
+}
+.formazas{
+    text-align: center;
+    font-size: 11pt;
+    color: aquamarine;
+}
